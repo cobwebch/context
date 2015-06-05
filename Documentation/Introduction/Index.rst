@@ -20,7 +20,7 @@ information.
 This extension is designed to help work with contexts, however they
 may be defined. The idea is to define contexts using TypoScript so
 that they can cover whole branches of a web site. The contexts can
-then be fetched using “expressions” (see the “expressions” extension).
+then be fetched using :ref:`expressions <expressions:start>`.
 
 This extension is used in the Tesseract project. Within this framework
 contexts can be retrieved inside Data Filters. It can also be used

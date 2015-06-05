@@ -26,8 +26,8 @@ following:
 	config.tx_context.foo = bar
 
 When the context is loaded this will create an entry in the context
-array with the key “foo” and the value “bar”. Contexts can be
-retrieved using expressions, in any extension that supports
+array with the key "foo" and the value "bar". Contexts can be
+retrieved using :ref:`expressions <expressions:start>`, in any extension that supports
 expressions. The contexts are loaded in the extra data of the
 expressions parser. Thus to retrieve a value from the context you
 would use a syntax like:
@@ -36,7 +36,7 @@ would use a syntax like:
 
 	extra:foo
 
-This will return “bar”.
+This will return "bar".
 
 
 .. _administration-syntax-extended:
@@ -62,7 +62,7 @@ expression:
 
 	extra:newscat
 
-will return “3”.
+will return "3".
 
 This extended syntax is meant to be used in the future BE module so
 that users could select a table and then a record from that table and
