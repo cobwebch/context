@@ -21,14 +21,15 @@ namespace Cobweb\Context;
  * @package TYPO3
  * @subpackage tx_context
  */
-interface ContextStorageInterface {
+interface ContextStorageInterface
+{
 
-	/**
-	 * Receives an array containing the context (simply a hash table)
-	 * and stores it according to its needs.
-	 *
-	 * @param array $context List of key-value pairs
-	 * @return void
-	 */
-	public function storeContext($context);
+    /**
+     * Receives an array containing the context (simply a hash table)
+     * and stores it according to its needs.
+     *
+     * @param array $context List of key-value pairs
+     * @return void
+     */
+    public function storeContext($context);
 }
