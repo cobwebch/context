@@ -1,6 +1,7 @@
 2016-04-15 Francois Suter (Cobweb)  <typo3@cobweb.ch>
 
 	* Reformatted code according to PSR-2, resolves #75644
+	* Released to TER as version 2.0.0, resolves #75648
 
 2015-06-05 Francois Suter (Cobweb)  <typo3@cobweb.ch>
 
