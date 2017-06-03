@@ -27,7 +27,7 @@ Context Manager
 		  tesseract, context, typoscript
 
 	:Copyright:
-		  2007-2016
+		  2007-2017
 
 	:Author:
 		  François Suter (Cobweb)

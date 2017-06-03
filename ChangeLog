@@ -1,3 +1,7 @@
+2017-06-03 Francois Suter (Cobweb)  <typo3@cobweb.ch>
+
+	* Verified compatibility with TYPO3 CMS 8
+
 2016-04-15 Francois Suter (Cobweb)  <typo3@cobweb.ch>
 
 	* Reformatted code according to PSR-2, resolves #75644
